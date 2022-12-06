@@ -13,7 +13,7 @@ editor.addEventListener('input', function() {
 
 // Initialiser l'API Google Drive
 GoogleDriveAPI.init({
-    clientId: 'YOUR_CLIENT_ID',
+    clientId: '585161099380-lvjrnh8k28btsacme716j48310efged6.apps.googleusercontent.com',
     scope: 'https://www.googleapis.com/auth/drive'
 });
 
